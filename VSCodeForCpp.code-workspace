@@ -21,6 +21,10 @@
       // "*.pdb": true,
       // "*.obj": true,
       "**/Thumbs.db": true,
+    },
+    "files.associations": {
+      "vector": "cpp",
+      "string": "cpp"
     }
   },
   "extensions": {

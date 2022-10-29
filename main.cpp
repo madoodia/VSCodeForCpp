@@ -8,6 +8,8 @@
 #include <vector>
 #include <string>
 
+#include <Windows.h>
+
 int main()
 {
   std::cout << "Hello VSCode!" << std::endl;
